@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+input_data/MD_dataset.csv
+input_data/*.pkl
+input_data/*.pickle
+
+*.torch
+*.out
+*.err
+*.png
+all_pred.pkl
+all_ref.pkl
+loss_convergence_v3.png
+comparison.png
